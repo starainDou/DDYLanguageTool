@@ -1,0 +1,33 @@
+// TabBarTitle
+"TabBarHome" = "首页";
+"TabBarContacts" = "通讯录";
+"TabBarFind" = "发现";
+"TabBarCenter" = "我";
+
+// backBarButtonItem
+"backBarTitle" = "返回";
+
+// Home: Title
+"HomeNavigationItemTitle" = "弹窗国际化根据系统";
+
+// Home: Test AuthManager
+"HomeAuthMicphone" = "麦克风";
+"HomeAuthCamera" = "摄像头";
+"HomeAuthAlbum" = "相册";
+"HomeAuthContacts" = "通讯录";
+"HomeAuthEvent" = "日历";
+"HomeAuthReminder" = "备忘录";
+"HomeAuthNet" = "联网权限";
+"HomeAuthNotification" = "推送";
+"HomeAuthLocation" = "定位";
+"HomeAuthSpeech" = "语音识别";
+
+// center
+"ddyTestSetting" = "设置";
+
+// setting
+"ddyLanguage" = "语言";
+
+// languageSelect
+"ddyChinese" = "简体中文";
+"ddyEnglish" = "English";
