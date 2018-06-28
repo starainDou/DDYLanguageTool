@@ -19,3 +19,4 @@
 "NSHomeKitUsageDescription" = "是否同意?";
 "NFCReaderUsageDescription" = "是否同意?";
 "NSSiriUsageDescription" = "是否同意?";
+"NSContactsUsageDescription" = "是否同意?";

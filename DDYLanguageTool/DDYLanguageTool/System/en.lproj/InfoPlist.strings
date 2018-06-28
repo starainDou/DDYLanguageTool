@@ -19,3 +19,4 @@
 "NSHomeKitUsageDescription" = "Agree?";
 "NFCReaderUsageDescription" = "Agree?";
 "NSSiriUsageDescription" = "Agree?";
+"NSContactsUsageDescription" = "Agree?";
