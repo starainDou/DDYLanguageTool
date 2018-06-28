@@ -8,6 +8,9 @@
 
 这种方式可以在不重启App情况下国际化，但是局限在应用内控件，对displayName 和 系统弹窗(如权限弹窗)无效
 
+使用时用 label.text = NSLocalizedString(@"string文件中字符串", nil);
+或者 label.text = DDYLocalStr(@"string文件中字符串");
+
 
 ![DDYLanguageToolCN.png](https://github.com/starainDou/DDYDemoImage/blob/master/DDYLanguageToolCN.png)  ![DDYLanguageToolEN.png](https://github.com/starainDou/DDYDemoImage/blob/master/DDYLanguageToolEN.png)
   
