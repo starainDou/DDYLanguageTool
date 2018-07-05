@@ -17,7 +17,6 @@
 		A4413A1520E4A64600A41152 /* ddyTest@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A4413A1420E4A64600A41152 /* ddyTest@2x.png */; };
 		A4413A1820E4ADF700A41152 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A4413A1A20E4ADF700A41152 /* InfoPlist.strings */; };
 		A4413A2120E4AE4E00A41152 /* DDYAuthorityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A4413A1E20E4AE4E00A41152 /* DDYAuthorityManager.m */; };
-		A4413A2220E4AE4E00A41152 /* NSTimer+DDYExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = A4413A2020E4AE4E00A41152 /* NSTimer+DDYExtension.m */; };
 		A4413A3120E4AE8800A41152 /* DDYTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4413A2D20E4AE8800A41152 /* DDYTabBarController.m */; };
 		A4413A3220E4AE8800A41152 /* DDYNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4413A3020E4AE8800A41152 /* DDYNavigationController.m */; };
 		A4413A3520E4AEB300A41152 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4413A3320E4AEB300A41152 /* ViewController.m */; };
@@ -42,8 +41,6 @@
 		A4413A1B20E4ADF800A41152 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
 		A4413A1D20E4AE4E00A41152 /* DDYAuthorityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDYAuthorityManager.h; sourceTree = "<group>"; };
 		A4413A1E20E4AE4E00A41152 /* DDYAuthorityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDYAuthorityManager.m; sourceTree = "<group>"; };
-		A4413A1F20E4AE4E00A41152 /* NSTimer+DDYExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSTimer+DDYExtension.h"; sourceTree = "<group>"; };
-		A4413A2020E4AE4E00A41152 /* NSTimer+DDYExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+DDYExtension.m"; sourceTree = "<group>"; };
 		A4413A2C20E4AE8800A41152 /* DDYTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDYTabBarController.h; sourceTree = "<group>"; };
 		A4413A2D20E4AE8800A41152 /* DDYTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDYTabBarController.m; sourceTree = "<group>"; };
 		A4413A2F20E4AE8800A41152 /* DDYNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDYNavigationController.h; sourceTree = "<group>"; };
@@ -124,8 +121,6 @@
 			children = (
 				A4413A1D20E4AE4E00A41152 /* DDYAuthorityManager.h */,
 				A4413A1E20E4AE4E00A41152 /* DDYAuthorityManager.m */,
-				A4413A1F20E4AE4E00A41152 /* NSTimer+DDYExtension.h */,
-				A4413A2020E4AE4E00A41152 /* NSTimer+DDYExtension.m */,
 			);
 			path = DDYAuthorityManager;
 			sourceTree = "<group>";
@@ -225,7 +220,6 @@
 				A44139EF20E376BD00A41152 /* TestViewController.m in Sources */,
 				A4413A3220E4AE8800A41152 /* DDYNavigationController.m in Sources */,
 				A44139EE20E376BD00A41152 /* main.m in Sources */,
-				A4413A2220E4AE4E00A41152 /* NSTimer+DDYExtension.m in Sources */,
 				A44139EB20E376BD00A41152 /* AppDelegate.m in Sources */,
 				A4413A3120E4AE8800A41152 /* DDYTabBarController.m in Sources */,
 				A44139F320E3780300A41152 /* DDYLanguageTool.m in Sources */,
